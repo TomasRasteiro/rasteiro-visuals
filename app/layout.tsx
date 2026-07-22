@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Rasteiro Visuals",
+  title: "Tomás Rasteiro",
   description: "Photography, Video Editing and Graphic Design",
   icons: {
     icon: "/logoTopoSite.png",
